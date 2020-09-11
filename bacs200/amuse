@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>Mildly Amusing</title>
+
+</head>
+
+<body>
+
+    <h1>Mildly Amusing</h1>
+    <p>by Tatum Carriker</p>
+M
+    <p>This page contains some funny things that might make you laugh.</p>
+    <p>This class is a blast!</p>
+
+    <h2>ifunny</h2>
+    <p>I used to use this app for hours its quite funny</p>
+    <p>
+        <a href="https://ifunny.co/">Ifunny</a>
+    </p>
+
+    <h2>r/dankmemes</h2>
+    <p>Reddit has many uses however i use it for memes and amusement.</p>
+    <p>
+        <a href="https://www.reddit.com/r/dankmemes/">r/dankmemes</a>
+    </p>
+
+    <h2>Calvin and Hobbes</h2>
+    <p>The best comic ever made.</p>
+    <p>
+        <a href="https://www.calvinandhobbes.com/">Calvin and Hobbes</a>
+    </p>
+
+</body>
+
+</html>
